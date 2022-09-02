@@ -5,9 +5,10 @@
 
 
 
-//         (use this space)
-
-
+//Return the number cubed!
+function cube(number){
+    return number * number * number;
+}
 
 
 
